@@ -1,5 +1,5 @@
 <?php
-$arr = array("zenith", "meet" ,"harsh","meet","parnsu" 
+$arr = array("jay", "mmanis" ,"harsh","jay","parnsu" 
 );
 
 print_r(array_count_values($arr));

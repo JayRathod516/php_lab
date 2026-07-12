@@ -1,10 +1,10 @@
 <?php
 
 $arr = array(
-    "zenith" => 155,
-    "meet" => 145,
-    "harsh" => 205,
-   "parnsu" => 146
+    "jay" => 15,
+    "manish" => 65,
+    "harsh" => 95,
+   "sany" => 16
 );
 
 
